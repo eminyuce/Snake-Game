@@ -1,5 +1,8 @@
 # Snake Game with ICP Rewards
 
+# PLAY HERE BELOW
+https://snake-6gs.caffeine.xyz/
+
 ## Overview
 A 2D game where players control a snake to catch balls and earn ICP token rewards based on their progress through increasing difficulty levels.
 
